@@ -13,4 +13,9 @@ Nullam placerat dapibus condimentum. Ut quis vulputate turpis. Nullam ullamcorpe
 [x] Third thing
 [ ] Fourth thing
 
-<form method="post" action="https://poll.pollcode.com/82753644"><div style="background-color:#EEEEEE;padding:2px;width:171px;font-family:Arial;font-size:small;color:#0F6E00;box-shadow: 0px 0px 5px #888;"><div style="padding:2px 0px 4px 2px;"><strong>Cé thusa?</strong></div><input type="radio" name="answer" value="1" id="answer827536441" style="float:left;" /><label for="answer827536441" style="float:left;width:146px;">Is mise</label><div style="clear:both;height:2px;"></div><input type="radio" name="answer" value="2" id="answer827536442" style="float:left;" /><label for="answer827536442" style="float:left;width:146px;">Is eisean</label><div style="clear:both;height:2px;"></div><input type="radio" name="answer" value="3" id="answer827536443" style="float:left;" /><label for="answer827536443" style="float:left;width:146px;">Is ise</label><div style="clear:both;height:2px;"></div><input type="radio" name="answer" value="4" id="answer827536444" style="float:left;" /><label for="answer827536444" style="float:left;width:146px;">Is muidne</label><div style="clear:both;height:2px;"></div><div align="center" style="padding:3px;"><input type="submit" value=" Vote ">&nbsp;<input type="submit" name="view" value=" View "></div><div align="right" style="font-size:10px">pollcode.com <a href="https://pollcode.com/">free polls</a></div></div></form>
+<a class="twitter-timeline"
+  href="https://twitter.com/DGorman_"
+  data-width="300"
+  data-height="300">
+Tweets by @DGorman_
+</a>
